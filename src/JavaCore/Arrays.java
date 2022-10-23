@@ -26,5 +26,9 @@ public class Arrays {
 
         System.out.println(new_array2[new_array2.length - 1]);
 
+        //
+
+
+
     }
 }
