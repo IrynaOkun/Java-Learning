@@ -26,7 +26,24 @@ public class Arrays {
 
         System.out.println(new_array2[new_array2.length - 1]);
 
-        //
+        // for
+
+        for (int i = 0; i < new_array.length; i++) {
+            System.out.print(new_array2[i]);
+
+        }
+
+        // for EACH (
+        //Позволяет пройти весь массив без использования индекса переменной
+
+        System.out.println();
+        System.out.println("_____________________");
+
+        for (int el: new_array2) {
+            System.out.print(el + " ");
+        }
+
+
 
 
 

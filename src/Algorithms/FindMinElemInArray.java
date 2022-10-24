@@ -1,6 +1,6 @@
 package Algorithms;
 
-public class AlgoFindMinElemInArrayr {
+public class FindMinElemInArray {
 
     public static void main(String[] args) {
 

@@ -17,6 +17,7 @@ public class bubbleSortAlgorithm {
                 }
             }
         }
+
         System.out.println(Arrays.toString(arr));
     }
 }
