@@ -1,4 +1,4 @@
-package JavaCore;
+package Arrays;
 
 public class Arrays_2 {
 

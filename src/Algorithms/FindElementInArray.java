@@ -1,7 +1,5 @@
 package Algorithms;
 
-import JavaCore.Arrays;
-
 public class FindElementInArray {
 
     //ЛИНЕЙНЫЙ ПОИСК
