@@ -110,6 +110,37 @@ public class aboutString {
         System.out.println(" ".isEmpty());
         System.out.println(" ".isBlank());
 
+        System.out.println();
+
+        String s10 = new String(new char[]{'h', 'e', 'l', 'l', 'o'});
+        char[] helloArray = s10.toCharArray();
+        System.out.println(helloArray);
+
+
+        System.out.println();
+
+
+
+        Integer i = new Integer(432);
+
+        System.out.println("ОБОЛОЧКИ ");
+
+        //toString
+
+        String ss = i.toString();
+
+        System.out.println(ss);
+
+        System.out.println();
+
+        //parseInt
+
+        String sa = "1166628";
+
+        Integer ii = Integer.parseInt(sa);
+
+        System.out.println(ii);
+
 
 
     }

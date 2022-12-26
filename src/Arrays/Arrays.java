@@ -28,12 +28,17 @@ public class Arrays {
 
         System.out.println(new_array2[new_array2.length - 1]);
 
+        System.out.println();
         // for
 
         for (int i = 0; i < new_array.length; i++) {
             System.out.print(new_array2[i]);
 
         }
+
+        System.out.println("printing Array");
+
+        System.out.println(new_array1.toString());
 
         // for EACH (
         //Позволяет пройти весь массив без использования индекса переменной
@@ -89,6 +94,8 @@ public class Arrays {
 //        System.out.println(key);//распечатываем индекс искомого числа
 //        //System.out.println(Arrays.binarySearch(array, 0));//а теперь попробуем найти число, которого в массиве нет,
 //        // и сразу же выведем результат на экран
+
+
 
     }
 
